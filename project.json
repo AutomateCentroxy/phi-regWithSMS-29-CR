@@ -1,5 +1,5 @@
 {
-    "projectName": "agama-registration",
+    "projectName": "agama-newuser-registration-smsotpsend",
     "description": "Designing an Agama Flow for seamless user registration with validation and authentication.",
     "type": "community",
     "author": "phiwallet",
@@ -24,3 +24,4 @@
     },
     "name": "agama-registration"
 }
+
